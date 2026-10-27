@@ -1,0 +1,10 @@
+[23:48:01] [plugins/mysql] cache_get_value_name_int: value 'NULL' is not a number
+[23:48:01] [plugins/mysql] cache_get_value_name_int: value 'NULL' is not a number
+[23:48:15] [plugins/mysql] error #2013 while executing query "INSERT INTO game__container (cModel,`cPosX`,`cPosY`,`cPosZ`,cVW,cInt,cType,cStartPrice,cTime) VALUES (1,'1959.145996','1341.840576','15.374607',0,0,2,100,5)": Lost connection to MySQL server during query
+[23:48:19] [plugins/mysql] error #2013 while executing query "INSERT INTO game__container (cModel,`cPosX`,`cPosY`,`cPosZ`,cVW,cInt,cType,cStartPrice,cTime) VALUES (1,'1959.145996','1341.840576','15.374607',0,0,2,100,2)": Lost connection to MySQL server during query
+[23:48:56] [plugins/mysql] error #2013 while executing query "INSERT INTO game__container (cModel,`cPosX`,`cPosY`,`cPosZ`,cVW,cInt,cType,cStartPrice,cTime) VALUES (1,'1960.961914','1343.795410','15.374607',0,0,2,100,10)": Lost connection to MySQL server during query
+[23:49:00] [plugins/mysql] error #2013 while executing query "INSERT INTO game__container (cModel,`cPosX`,`cPosY`,`cPosZ`,cVW,cInt,cType,cStartPrice,cTime) VALUES (1,'1952.055176','1341.382324','15.374607',0,0,2,100,4)": Lost connection to MySQL server during query
+[23:49:00] [plugins/mysql] error #2013 while executing query "INSERT INTO game__container (cModel,`cPosX`,`cPosY`,`cPosZ`,cVW,cInt,cType,cStartPrice,cTime) VALUES (1,'1951.746460','1341.279663','15.374607',0,0,2,100,2)": Lost connection to MySQL server during query
+[23:49:01] [plugins/mysql] error #2013 while executing query "INSERT INTO game__container_log (`text`,createdAt) VALUES ('Стартовал аукцион на контейнер #27',1793134141)": Lost connection to MySQL server during query
+[23:49:01] [plugins/mysql] cache_get_value_name_int: value 'NULL' is not a number
+[23:49:01] [plugins/mysql] cache_get_value_name_int: value 'NULL' is not a number
