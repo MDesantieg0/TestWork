@@ -81,7 +81,7 @@ public OnPlayerConnect(playerid)
 	PlayerInfo [ playerid ] [ tLastArea ] = -1;
 
 	GetPlayerName (playerid, PlayerInfo [ playerid ] [ pName ], MAX_PLAYER_NAME);
-	SendClientMessageEx (playerid, -1, "%s", PlayerInfo [ playerid ] [ pName ]);
+
 	#if defined _container_system
 		Container:connect (playerid);
 	#endif
